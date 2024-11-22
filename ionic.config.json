@@ -1,0 +1,7 @@
+{
+  "name": "JuegoAdivinaelNumero",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
